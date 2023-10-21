@@ -59,6 +59,14 @@ OpenAPI definition:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+##
+
+**Publicação da API pelo Railway:**
+
+https://sant-dev-week-2023-prod.up.railway.app/swagger-ui/index.html#/
+
+##
+
 ![Alt text](/assets/imageOpenAPI.png)
 
 ### Tecnologias utilizadas:
