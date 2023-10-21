@@ -49,6 +49,18 @@ classDiagram
   User "1" *-- "N" News
 ```
 
+##
+Acessar o banco de dados:
+```
+http://localhost:8080/h2-console/
+```
+
+OpenAPI definition:
+```
+http://localhost:8080/swagger-ui/index.html
+```
+![Alt text](/assets/imageOpenAPI.png)
+
 ### Tecnologias utilizadas:
 
 <div>
